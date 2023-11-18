@@ -18,7 +18,7 @@ if wallet_exists('wallet_query'):
 else:
     pk = 'tobacco defy swarm leaf flat pyramid velvet pen minor twist maximum extend'
     w = Wallet.create(
-        keys=pk, network='bitcoinlib_test',
+        keys=pk, network='bitcoinlib_main',
         name='wallet_query')
     w.get_keys(number_of_keys=50)
     w.utxos_update()
