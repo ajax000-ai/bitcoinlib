@@ -3,6 +3,13 @@
         "propertyName": "propertyValue",
     
             "terminal.integrated.defaultProfile.linux": "SSH",
+            "terminal.integrated.ignoreProcessNames": [
+                "starship",
+                "oh-my-posh",
+                "bash",
+                "zsh",
+                "SSH"
+            ],
             // Your JSON properties here
         }
     
