@@ -1,4 +1,11 @@
-{
-    "terminal.integrated.defaultLocation": "editor",
-    "terminal.integrated.env.windows": {}
-}
+
+    {
+        "propertyName": "propertyValue"
+    }
+        { // Your JSON properties here
+        
+        
+            "terminal.integrated.defaultProfile.linux": "bash"
+        }
+    
+      
