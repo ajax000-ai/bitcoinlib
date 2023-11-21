@@ -10,7 +10,7 @@
 from bitcoinlib.mnemonic import Mnemonic
 from bitcoinlib.keys import HDKey
 
-NETWORK = 'testnet'
+NETWORK = 'mainnet'
 KEY_STRENGHT = 128
 
 words = Mnemonic().generate(KEY_STRENGHT)
