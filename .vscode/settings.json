@@ -1,11 +1,10 @@
 
     {
-        "propertyName": "propertyValue"
-    }
-        { // Your JSON properties here
-        
-        
-            "terminal.integrated.defaultProfile.linux": "bash"
+        "propertyName": "propertyValue",
+    
+            "terminal.integrated.defaultProfile.linux": "SSH",
+            // Your JSON properties here
         }
+    
     
       
