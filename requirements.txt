@@ -3,3 +3,4 @@ fastecdsa>=2.2.1
 SQLAlchemy>=1.4.24
 numpy>=1.22.0
 pycryptodome>=3.14.1
+urllib3>=2.2.2 # not directly required, pinned by Snyk to avoid a vulnerability
